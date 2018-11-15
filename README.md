@@ -1,5 +1,32 @@
-## 2018.10.25
-1. 数据库连接 操作 写成工具类 tools/mysql_handler.py
- 
-测试使用数据库表：班级 学生 老师
-一对一 一对多 多对多 关系的增删改查。
+### Contributors
+
+- User([description], [email])
+- User([description], [email])
+
+### devDependencies
+
+- python Environment version 
+- Operating system version
+- dependent packages
+
+### Relevant document description
+
+- init_db.py                初始化数据库
+- mysql
+     - MysqlHelper          数据库相关操作
+- main.py                   执行文件
+
+### execute  guideline
+
+`- --help/-h`
+
+`- params description`
+
+`- params description`
+
+`- params description`
+
+`- params description`
+
+`Execute the sample`
+
