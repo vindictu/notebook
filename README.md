@@ -18,7 +18,7 @@ Relevant document description
 ----------------------------------
 - init_db.py 初始化数据库
 - mysql
-    - MysqlHelper 数据库相关操作
+    - MysqlHelper.py 数据库相关操作
 - main.py 执行文件
 
 execute guideline
