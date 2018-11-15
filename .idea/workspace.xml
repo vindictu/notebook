@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f2bbf6f-ff50-44c6-836a-d2eb6b02f367" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/correlation_mysql/MysqlHelper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/correlation_mysql/Operating_statistics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/correlation_mysql/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/correlation_mysql/cmd_sql.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,11 +23,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notebook/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="809">
               <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="22">
+                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -99,7 +104,6 @@
         <option value="$PROJECT_DIR$/notebook/settings.py" />
         <option value="$PROJECT_DIR$/tools/Cinfig.py" />
         <option value="$PROJECT_DIR$/tools/Config.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/tools/MysqlHelper.py" />
         <option value="$PROJECT_DIR$/tools/mysql_handler.py" />
         <option value="$PROJECT_DIR$/tools/correlation_mysql/__init__.py" />
@@ -113,6 +117,7 @@
         <option value="$PROJECT_DIR$/tools/correlation_mysql/cmd_sql.py" />
         <option value="$PROJECT_DIR$/tools/excel.txt.1" />
         <option value="$PROJECT_DIR$/tools/excel.txt.2" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -137,7 +142,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,6 +162,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -326,6 +331,42 @@
       <option name="presentableId" value="Default" />
       <updated>1540385897370</updated>
     </task>
+    <task id="LOCAL-00001" summary="mysql tools update">
+      <created>1542261508370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542261508370</updated>
+    </task>
+    <task id="LOCAL-00002" summary="mysql tools update">
+      <created>1542261643178</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542261643178</updated>
+    </task>
+    <task id="LOCAL-00003" summary="mysql tools update">
+      <created>1542261710839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542261710839</updated>
+    </task>
+    <task id="LOCAL-00004" summary="README update">
+      <created>1542263348585</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1542263348585</updated>
+    </task>
+    <task id="LOCAL-00005" summary="README update">
+      <created>1542263417646</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1542263417646</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -360,6 +401,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mysql tools update" />
+    <MESSAGE value="README update" />
+    <option name="LAST_COMMIT_MESSAGE" value="README update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -524,16 +570,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tools/Config.py" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="22">
-            <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tools/correlation_mysql/MysqlHelper.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
@@ -638,27 +674,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/node_execl.txt.1">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/excel.txt.2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/excel.txt.1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/node_execl.txt.1" />
+    <entry file="file://$PROJECT_DIR$/tools/excel.txt.2" />
+    <entry file="file://$PROJECT_DIR$/tools/excel.txt.1" />
     <entry file="file://$PROJECT_DIR$/notebook/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="809">
           <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="22">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
