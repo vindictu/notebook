@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f2bbf6f-ff50-44c6-836a-d2eb6b02f367" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,7 +22,20 @@
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="682">
+                <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -97,11 +110,6 @@
               <item name="notebook" type="b2602c69:ProjectViewProjectNode" />
               <item name="notebook" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="notebook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="notebook" type="462c0819:PsiDirectoryNode" />
-              <item name="notebook" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -126,14 +134,14 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mayuanlin\PycharmProjects\notebook\tools" />
+      <recent name="C:\Users\mayuanlin\PycharmProjects\notebook\tools\correlation_mysql" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mayuanlin\PycharmProjects\notebook\tools" />
       <recent name="C:\Users\mayuanlin\PycharmProjects\notebook\tools\correlation_mysql" />
       <recent name="C:\Users\mayuanlin\PycharmProjects\notebook" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\mayuanlin\PycharmProjects\notebook\tools" />
-      <recent name="C:\Users\mayuanlin\PycharmProjects\notebook\tools\correlation_mysql" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -317,11 +325,19 @@
       <option name="project" value="LOCAL" />
       <updated>1542263779487</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="README update">
+      <created>1542264414574</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1542264414574</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1441" height="1013" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
@@ -496,16 +512,7 @@
     <entry file="file://$PROJECT_DIR$/notebook/wsgi.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="22">
-            <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/Django.md" />
     <entry file="file://$PROJECT_DIR$/notebook/wsgi.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -598,9 +605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5038">
           <caret line="236" column="27" selection-start-line="236" selection-start-column="23" selection-end-line="236" selection-end-column="27" />
-          <folding>
-            <element signature="e#202#216#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -621,14 +625,6 @@
     <entry file="file://$PROJECT_DIR$/tools/node_execl.txt.1" />
     <entry file="file://$PROJECT_DIR$/tools/excel.txt.2" />
     <entry file="file://$PROJECT_DIR$/tools/excel.txt.1" />
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tools/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -640,6 +636,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="809">
           <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="682">
+            <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
